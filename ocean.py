@@ -17,3 +17,6 @@ print("str() string: ", str(obj))#maneira correta de fazer a chamada
 
 print("__repr__() string: ", obj.__repr__())#jeito errado de fazer a chamada
 print("repr() string: ", repr(obj))#maneira correta de fazer a chamada
+
+""" E nois
+"""

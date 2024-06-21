@@ -20,3 +20,4 @@ print("repr() string: ", repr(obj))#maneira correta de fazer a chamada
 
 """ E nois
 """
+''''No início, o Universo foi criado. Isso irritou profundamente muitas pessoas e, no geral, foi encarado como uma péssima ideia. '''
